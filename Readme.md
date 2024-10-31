@@ -45,7 +45,17 @@ Sigue las instrucciones en pantalla para seleccionar las monedas y realizar la c
 
 ## Ejemplo de Uso
 
-![img.png](img.png)
+```plaintext
+*******************************************
+¡Sea bienvenid@ al Conversor de Moneda!
+
+1) Seleccionar moneda!
+2) Salir
+              
+Elija una opción válida: 
+
+*******************************************
+```
 
 El programa presentará los menús para seleccionar las monedas y realizar las conversiones.
 
@@ -59,5 +69,5 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 ## Autor
 
-- Mauro Trillos
+- Eduardo Marino
 - GitHub [@EdwardCCB](https://github.com/edwardccb)

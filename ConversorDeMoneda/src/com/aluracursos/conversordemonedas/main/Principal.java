@@ -11,15 +11,15 @@ public class Principal {
 
         // Menú principal usando un String multilínea
         String menu = """
-                ******************************************************************************
-                ¡Sea bienvenid@ al Conversor de Moneda!
+               *******************************************
+               ¡Sea bienvenid@ al Conversor de Moneda!
                           \s
-                1) Seleccionar moneda!
-                2) Salir
+               1) Seleccionar moneda!
+               2) Salir
                \s
-                Elija una opción válida:\s
+               Elija una opción válida:\s
 
-                ******************************************************************************
+               *******************************************
                \s""";
 
         while (true) {
